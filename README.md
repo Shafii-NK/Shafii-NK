@@ -48,8 +48,9 @@ I love building smart, useful, and user-friendly solutions — from responsive w
 
 ## 📈 GitHub Stats
 
-![Shafii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafii-NK&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafii-NK&layout=compact&theme=tokyonight)
+
+![Shafii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafii-NK&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafii-NK&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
@@ -61,4 +62,4 @@ I love building smart, useful, and user-friendly solutions — from responsive w
 
 ---
 
-> “Build. Learn. Improve. Repeat.”
+> “Thanks for visiting.”
